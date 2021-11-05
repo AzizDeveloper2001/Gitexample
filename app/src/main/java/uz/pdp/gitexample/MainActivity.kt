@@ -9,7 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         //commit->ozgarishlarni belgilab olish
         //push->ozgarishlarni yuklash
-        //ozgarishlarni qabul qilib olish
+        //ozgarishlarni qabul qilib olis
 
     }
 }
